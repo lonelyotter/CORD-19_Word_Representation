@@ -1,6 +1,6 @@
 # Word Representation in Biomedical Domain
 
-The repository of the NLP project for the 2023 Imperial Data Science Winter School. In this project, we will be using the CORD-19 dataset to study the word representations in biomedical domain.
+The repository of the NLP project for the 2023 Imperial Data Science Winter School. In this project, we will be using the CORD-19 dataset to study the word representation in biomedical domain.
 
 ## Setup
 
