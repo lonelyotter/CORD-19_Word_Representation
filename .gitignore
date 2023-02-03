@@ -1,3 +1,5 @@
-/data
-/.venv
-/.vscode
+/.venv/
+/.vscode/
+/data/*
+!/data/medical_terms.csv
+!/data/stopwords.txt
