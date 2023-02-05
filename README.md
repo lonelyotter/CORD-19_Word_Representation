@@ -10,16 +10,16 @@ This is the repository of the NLP project for the 2023 Imperial Data Science Win
    python3 -m venv .venv
    ```
 
-1. install the requirements
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 1. activate the virtual environment
 
    ```bash
    source .venv/bin/activate
+   ```
+
+1. install the requirements
+
+   ```bash
+   pip3 install -r requirements.txt
    ```
 
 1. download the CORD-19 dataset
